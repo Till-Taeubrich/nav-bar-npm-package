@@ -1,0 +1,22 @@
+{
+  "name": "nav-bar-hover",
+  "version": "1.0.0",
+  "description": "Nav bar which opens drop-down menu when hovering over it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Till-Taeubrich/nav-bar-npm-package.git"
+  },
+  "keywords": [
+    "nav-bar"
+  ],
+  "author": "Till Taeubrich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Till-Taeubrich/nav-bar-npm-package/issues"
+  },
+  "homepage": "https://github.com/Till-Taeubrich/nav-bar-npm-package#readme"
+}
